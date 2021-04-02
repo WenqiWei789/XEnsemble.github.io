@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
-
 title: XEnsemble: Robust Deep Learning Ensemble against Deception
 description: Identifying, verifying and correcting outlier inputs for deep learning
+
+
+theme: jekyll-theme-cayman

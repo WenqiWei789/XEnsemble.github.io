@@ -1,5 +1,5 @@
-title: "XEnsemble: Robust Deep Learning Ensemble against Deception"
-description: Identifying, verifying and correcting outlier inputs for deep learning
+title: "XEnsemble: <span style='font-size: 10px'>Robust Deep Learning Ensemble against Deception</style>"
+description: “Identifying, verifying and correcting outlier inputs for deep learning”
 
 
 theme: jekyll-theme-cayman

@@ -1,4 +1,3 @@
-<title>XEnsemble project</title>
 
 
 

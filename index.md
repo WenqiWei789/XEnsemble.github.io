@@ -10,16 +10,16 @@ XEnsemble now supports four datasets: MNIST, CIFAR-10, ImageNet and LFW.
 
 ##  Examples
 
-### motivation: model divergence
+### model divergence
 
 ![model_div](fig/model_divergence.png)
 
-### motivation: instance divergence
+### instance divergence
 
 ![ins_div](fig/input_divergence.png)
 
 
-### XEnesmble outline
+### XEnesmble overview
 
 ![system](fig/system_fig.png)
 

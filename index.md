@@ -20,7 +20,7 @@ XEnsemble now supports four datasets: MNIST, CIFAR-10, ImageNet and LFW.
 
 ![system](fig/system_fig.png)
 
-## How to run
+## Requirement and How to run
 Please refer to the [README](https://github.com/WenqiWei789/XEnsemble-1.0) file.
 
 ## publications

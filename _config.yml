@@ -1,4 +1,5 @@
 title: "XEnsemble: <span style='font-size: 45px'>Robust Deep Learning Ensemble against Deception</style>"
 description: A method identifying, verifying and correcting deception inputs for deep learning
+header: XEnsemble project
 
 theme: jekyll-theme-cayman

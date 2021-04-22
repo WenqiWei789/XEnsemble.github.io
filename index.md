@@ -3,7 +3,7 @@
 
 ## Introduction
 
-XEnsemble is an advanced robust deep learning ensemble package that can verify and correct adversarial examples and identify out-of-distribution inputs for deep learning. The intuition behind is the input and model divergence of these outlier inputs.
+XEnsemble is an advanced robust deep learning ensemble package that can verify and correct adversarial examples and identify out-of-distribution inputs for deep learning. The intuition behind is the input divergence and the model divergence of these outlier inputs.
 
 XEnsemble now supports four datasets: MNIST, CIFAR-10, ImageNet and LFW.
 
@@ -27,14 +27,15 @@ XEnsemble now supports four datasets: MNIST, CIFAR-10, ImageNet and LFW.
 Please refer to the [README](https://github.com/WenqiWei789/XEnsemble-1.0) file.
 
 ## publications
-Our XEnsemble idea work have generated a number of publications on deception input characteration, deception mitigation for deep learning and ensemble methods.
+Our XEnsemble idea have generated a number of publications on deception input characterization, deception mitigation for deep learning and ensemble methods.
 
 
-### XEnsemeble as a defense for adversarial example & OOD inputs
+### XEnsemble as a defense for adversarial example & OOD inputs
 ```
 - Wei, Wenqi, and Ling Liu. "Robust Deep Learning Ensemble against Deception." IEEE Transactions on Dependable and Secure Computing (2020).
 - Wei, Wenqi, Ling Liu, Margaret Loper, Ka-Ho Chow, Emre Gursoy, Stacey Truex, and Yanzhao Wu. "Cross-layer strategic ensemble defense against adversarial examples." In 2020 International Conference on Computing, Networking and Communications (ICNC), pp. 456-460. IEEE, 2020.
 - Liu, Ling, Wenqi Wei, Ka-Ho Chow, Margaret Loper, Emre Gursoy, Stacey Truex, and Yanzhao Wu. "Deep neural network ensembles against deception: Ensemble diversity, accuracy and robustness." In 2019 IEEE 16th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), pp. 274-282. IEEE, 2019.
+- Chow, Ka-Ho, Ling Liu, Wenqi Wei and Yanzhao Wu. "Diverse and Robust Neural Ensembles against Adversarial Examples." IEEE Transactions on Dependable and Secure Computing (2021).
 - Chow, Ka-Ho, Wenqi Wei, Yanzhao Wu, and Ling Liu. "Denoising and verification cross-layer ensemble against black-box adversarial attacks." In 2019 IEEE International Conference on Big Data (Big Data), pp. 1282-1291. IEEE, 2019.
 ```
 
@@ -54,7 +55,7 @@ We are continuing the development and there is ongoing work in our lab regarding
 
 
 ## Acknowledgement
-The code package is built on top of the EvadeML. We specially thank the authors. We also thank authors in Cleverhans, Carlini&Wagner attacks, PGD attacks, MagNet, universal(and DeepFool) attacks, keras models and those impletmented neural network models with trained weights.
+The attack code package is built on top of the EvadeML. We specially thank the authors. We also thank authors in Cleverhans, Carlini&Wagner attacks, PGD attacks, MagNet, universal(and DeepFool) attacks, keras models and those impletmented neural network models with trained weights.
 
 
 

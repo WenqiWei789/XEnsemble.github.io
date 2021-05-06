@@ -35,7 +35,6 @@ Our XEnsemble idea have generated a number of publications on deception input ch
 - Wei, Wenqi, and Ling Liu. "Robust Deep Learning Ensemble against Deception." IEEE Transactions on Dependable and Secure Computing (2020).
 - Wei, Wenqi, Ling Liu, Margaret Loper, Ka-Ho Chow, Emre Gursoy, Stacey Truex, and Yanzhao Wu. "Cross-layer strategic ensemble defense against adversarial examples." In 2020 International Conference on Computing, Networking and Communications (ICNC), pp. 456-460. IEEE, 2020.
 - Liu, Ling, Wenqi Wei, Ka-Ho Chow, Margaret Loper, Emre Gursoy, Stacey Truex, and Yanzhao Wu. "Deep neural network ensembles against deception: Ensemble diversity, accuracy and robustness." In 2019 IEEE 16th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), pp. 274-282. IEEE, 2019.
-- Chow, Ka-Ho, Ling Liu, Wenqi Wei and Yanzhao Wu. "Diverse and Robust Neural Ensembles against Adversarial Examples." IEEE Transactions on Dependable and Secure Computing (2021).
 - Chow, Ka-Ho, Wenqi Wei, Yanzhao Wu, and Ling Liu. "Denoising and verification cross-layer ensemble against black-box adversarial attacks." In 2019 IEEE International Conference on Big Data (Big Data), pp. 1282-1291. IEEE, 2019.
 ```
 
